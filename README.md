@@ -1,0 +1,2 @@
+# Android_RecyclerView_MultipleLayout
+一个RecyclerView包含多种不同的布局
