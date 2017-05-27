@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--所有细线的宽度-->
+    <dimen name="common_horizontal_line_min">0.2dp</dimen>
+
+</resources>
